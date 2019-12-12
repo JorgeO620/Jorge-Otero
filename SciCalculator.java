@@ -3,7 +3,7 @@ public class SciCalculator {
     public static void main(String[] args) {
         Scanner scanObject = new Scanner(System.in);
 
-        String num1;
+        String num1; //This a comment for lab 11
         String num2;
         int operator;
         double answer=0;
